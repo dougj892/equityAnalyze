@@ -1,0 +1,13 @@
+Package: equityAnalyze
+Title: Perform beneficiary analysis using household surveys.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Doug", "Johnson", , "dougj892@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: equityAnalyze contains a set of functions which perform beneficiary incidence analysis, beneficiary coverage analysis, and other analyses using household surveys which contain data on program receipt. This package seeks to mimic the functionality of the World Bank's (no longer supported) Adept software. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    DescTools
